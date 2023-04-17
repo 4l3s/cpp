@@ -73,5 +73,28 @@ https://www.cnblogs.com/myseries/p/12487211.html
 
 分页解决的问题
  内存使用率低下
+ 
+ ## shell
+sh遵循POSIX规范:"当某行代码出错时，不继续往下解释"。bash就算出错，也会继续向下执行。
+列子
+```shell
+sh脚本
+#!/bin/sh
+source err
+echo "test sh"
 
+结果为:
+testsh.sh: 2: testsh.sh: source: not found
+```
+```
+bash 脚本:
+
+#!/bin/bash
+source err
+echo "test sh"
+
+结果为:
+testsh.sh: 2: testsh.sh: source: not found
+test sh
+```
 
