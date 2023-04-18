@@ -99,3 +99,10 @@ test sh
 ```
 ## c++ 多线程
 
+
+https://blog.csdn.net/qq_35034604/article/details/107959429
+
+## GPU
+http://www.3fun.net/575/
+
+
