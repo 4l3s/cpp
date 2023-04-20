@@ -57,12 +57,13 @@ https://cloud.tencent.com/developer/article/1599283
 虚函数实现多态的原理
 https://blog.csdn.net/zoopang/article/details/14071779?ydreferer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS5oay8%3D
 
+引用折叠与完美转发
+https://www.zhihu.com/question/40346748
 
 
 
 
-
-操作系统的理解：
+## 操作系统：
 内存分配:
 https://www.cnblogs.com/myseries/p/12487211.html
 分段解决问题：
