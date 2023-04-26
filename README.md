@@ -111,5 +111,8 @@ https://xiaolincoding.com/mysql/transaction/phantom.html#%E6%80%BB%E7%BB%93
 ## cpp金典问题
 https://blog.csdn.net/qq_35034604/article/details/107959429
 
+## 小工具
+https://quick-bench.com/q/Nd-_MgmOpYTDHsEqMbI5w1BROQk
+
 
 
