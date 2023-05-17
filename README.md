@@ -117,5 +117,8 @@ https://quick-bench.com/q/Nd-_MgmOpYTDHsEqMbI5w1BROQk
 信号传输的原理
 https://www.zhihu.com/question/35769259
 
+jvm
+https://zhuanlan.zhihu.com/p/351216320
+
 
 
