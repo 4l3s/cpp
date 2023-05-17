@@ -114,5 +114,8 @@ https://blog.csdn.net/qq_35034604/article/details/107959429
 ## 小工具
 https://quick-bench.com/q/Nd-_MgmOpYTDHsEqMbI5w1BROQk
 
+信号传输的原理
+https://www.zhihu.com/question/35769259
+
 
 
