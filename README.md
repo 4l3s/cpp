@@ -120,5 +120,9 @@ https://www.zhihu.com/question/35769259
 jvm
 https://zhuanlan.zhihu.com/p/351216320
 
+线程和cpu核心的关系
+https://www.zhihu.com/question/274189552
+CPU的核心数和线程数量是什么关系？ - Java面试365的回答 - 知乎
+https://www.zhihu.com/question/274189552/answer/2359390179
 
 
