@@ -143,4 +143,4 @@ https://cloud.tencent.com/developer/article/1054862
 分布式一致性算法
 
 presto的调度算法
-
+ shuffer的过程
