@@ -144,3 +144,6 @@ https://cloud.tencent.com/developer/article/1054862
 
 presto的调度算法
  shuffer的过程
+ 
+ cbo优化器
+ https://www.cnblogs.com/JasonCeng/p/14199298.html
