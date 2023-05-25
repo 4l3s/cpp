@@ -143,8 +143,18 @@ https://cloud.tencent.com/developer/article/1054862
 分布式一致性算法
 
 presto的调度算法
+
  shuffer的过程
  
  cbo优化器
  https://www.cnblogs.com/JasonCeng/p/14199298.html
  https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/
+ 
+ hive的存储
+ 
+ mysql里面的多并发
+ 
+ pdp本地鉴权也要去数据库查询，如何做到大量请求的。
+ 
+ 内存泄漏问题定位以及裁内存
+ 
