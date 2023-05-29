@@ -158,3 +158,7 @@ presto的调度算法
  
  内存泄漏问题定位以及裁内存
  
+ 分布式limit分析
+ 
+ https://zhuanlan.zhihu.com/p/57030465
+ 
