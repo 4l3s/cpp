@@ -144,9 +144,12 @@ https://cloud.tencent.com/developer/article/1054862
 
 presto的调度算法
 
+https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/
+
  shuffer的过程
  
  cbo优化器
+ 
  https://www.cnblogs.com/JasonCeng/p/14199298.html
  https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%EF%BC%9A-%E4%BB%BB%E5%8A%A1%E5%88%86%E9%85%8D%E5%88%B0%E5%93%AA%E9%87%8C/
  
