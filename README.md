@@ -162,3 +162,5 @@ presto的调度算法
  
  https://zhuanlan.zhihu.com/p/57030465
  
+ presto的coordinator节点不参与计算，final阶段，partial阶段都是在worker节点上计算，
+ 
