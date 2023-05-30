@@ -167,3 +167,7 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  
  presto的coordinator节点不参与计算，final阶段，partial阶段都是在worker节点上计算，
  
+ presto
+ 
+ https://zhuanlan.zhihu.com/p/345733460
+ 
