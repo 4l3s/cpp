@@ -155,6 +155,9 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  
  hive的存储
  
+ presto基础知识，详细读
+ https://zhuanlan.zhihu.com/p/54385845
+ 
  mysql里面的多并发
  
  pdp本地鉴权也要去数据库查询，如何做到大量请求的。
