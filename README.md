@@ -174,4 +174,7 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  ## redis
  
  https://blog.csdn.net/qq_22155255/article/details/121871167
+  ## tcp
+  tcp三次握手
+  第三次失败，会发生什么。连接池
  
