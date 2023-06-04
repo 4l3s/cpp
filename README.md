@@ -114,6 +114,8 @@ https://blog.csdn.net/qq_35034604/article/details/107959429
 http://www.3fun.net/575/
 ## mysql
 https://xiaolincoding.com/mysql/transaction/phantom.html#%E6%80%BB%E7%BB%93
+间歇锁
+写，读如何保证一致性
 
 ## cpp金典问题
 https://blog.csdn.net/qq_35034604/article/details/107959429
