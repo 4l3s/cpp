@@ -184,5 +184,7 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
   第三次失败，会发生什么。连接池
 ## kafka学习
   https://www.cnblogs.com/Jcloud/p/17510848.html
-  海量数据
+  ##海量数据
  https://wangpengcheng.github.io/2019/12/17/hailiangshuju_problems/
+ ##数据倾斜
+ https://zhuanlan.zhihu.com/p/332368318
