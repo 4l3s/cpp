@@ -190,3 +190,16 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  
  ## 数据倾斜
  https://zhuanlan.zhihu.com/p/332368318
+ ## 刷题
+ 
+ 46.全排列	https://leetcode.cn/problems/permutations/ 
+ 47.全排列II	 https://leetcode.cn/problems/permutations-ii/
+ 784.字母大小写全排列	 https://leetcode.cn/problems/letter-case-permutation/
+ 字符串的排列	 https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/
+ 77.组合	 https://leetcode.cn/problems/combinations/
+ 39.组合总和	 https://leetcode.cn/problems/combination-sum/
+ 40组合总和II	 https://leetcode.cn/problems/combination-sum-ii/
+ 216.组合总和III	 leetcode.cn/problems/combination-sum-iii/
+ 377.组合总和IV	 https://leetcode.cn/problems/combination-sum-iv/
+ 78.子集	 https://leetcode.cn/problems/subsets/
+ 90.子集II	 https://leetcode.cn/problems/subsets-ii/
