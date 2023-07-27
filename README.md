@@ -203,3 +203,7 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  377.组合总和IV	 https://leetcode.cn/problems/combination-sum-iv/
  78.子集	 https://leetcode.cn/problems/subsets/
  90.子集II	 https://leetcode.cn/problems/subsets-ii/
+
+## 书籍
+血酬定律
+ http://wx0313.free.fr/book/5.pdf
