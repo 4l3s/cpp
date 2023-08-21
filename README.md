@@ -207,8 +207,9 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
 ## 书籍
 血酬定律
  http://wx0313.free.fr/book/5.pdf
- ##分布式一致性算法
+## 分布式一致性算法
  https://www.cnblogs.com/xybaby/p/10124083.html
  https://zhuanlan.zhihu.com/p/91288179
+ https://juejin.cn/post/6907151199141625870
  ## 小孩子的书
  https://www.zhihu.com/question/605640833?utm_division=hot_list_page
