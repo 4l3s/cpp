@@ -215,3 +215,5 @@ https://mayunlei.github.io/2020/05/30/Presto-%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A
  资源调度算法去学习一下
  ## 小孩子的书
  https://www.zhihu.com/question/605640833?utm_division=hot_list_page
+ ## 工作相关
+ https://www.zhihu.com/question/382390653
